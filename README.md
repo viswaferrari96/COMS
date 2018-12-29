@@ -1,1 +1,1 @@
-# COMS 309
+# COMPUTER SCIENCE projects
